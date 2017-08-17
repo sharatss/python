@@ -6,6 +6,6 @@ def main():
 
     variable = input()
     print("Hello Techgig")
-    print(name)
+    print(variable)
 
 main()
